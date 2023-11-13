@@ -5,11 +5,21 @@
 using namespace std;
 class Array
 {
-    private:
-        int a[20];
+private:
+    int size;
+
+public:
+    Array(int a)
+    {
+        size = a;
+        
+        
+    }
+    
     
 };
- int main()
+
+int main()
 {
 
 }
