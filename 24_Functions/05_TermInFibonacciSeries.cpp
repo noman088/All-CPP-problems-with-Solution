@@ -19,6 +19,8 @@ void fibCheck(int number)
     }
     cout <<number<< " is not a term in fibonacci series";
 }
+
+// this is just a line for making the commit consistencey and try to edit in the github page 
 int main()
 {
     int num;
